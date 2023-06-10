@@ -1,0 +1,214 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="apps.brototype.melism_musics"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:4:5-79
+11-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:4:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:5:6-81
+12-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:5:23-79
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-77
+13-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-74
+14    <uses-permission android:name="android.permission.VIBRATE" />
+14-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-66
+14-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-63
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-68
+15-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-65
+16    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\sharo\.gradle\caches\transforms-3\6ec2c823b2ddfa9d4aff16fd99b56b89\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:5-79
+17-->[com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\sharo\.gradle\caches\transforms-3\6ec2c823b2ddfa9d4aff16fd99b56b89\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:22-76
+18
+19    <permission
+19-->[androidx.core:core:1.9.0] C:\Users\sharo\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+20        android:name="apps.brototype.melism_musics.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+20-->[androidx.core:core:1.9.0] C:\Users\sharo\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+21        android:protectionLevel="signature" />
+21-->[androidx.core:core:1.9.0] C:\Users\sharo\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+22
+23    <uses-permission android:name="apps.brototype.melism_musics.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+23-->[androidx.core:core:1.9.0] C:\Users\sharo\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+23-->[androidx.core:core:1.9.0] C:\Users\sharo\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+24
+25    <application
+26        android:name="android.app.Application"
+26-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:8:9-42
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.9.0] C:\Users\sharo\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+28        android:icon="@mipmap/ic_launcher"
+28-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:9:9-43
+29        android:label="Melism" >
+29-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:7:9-31
+30        <activity
+30-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:10:9-30:20
+31            android:name="com.example.my_project.MainActivity"
+31-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:11:13-41
+32            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+32-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:15:13-163
+33            android:exported="true"
+33-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:12:13-36
+34            android:hardwareAccelerated="true"
+34-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:16:13-47
+35            android:launchMode="singleTop"
+35-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:13:13-43
+36            android:theme="@style/LaunchTheme"
+36-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:14:13-47
+37            android:windowSoftInputMode="adjustResize" >
+37-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:17:13-55
+38
+39            <!--
+40                 Specifies an Android theme to apply to this Activity as soon as
+41                 the Android process has started. This theme is visible to the user
+42                 while the Flutter UI initializes. After that, this theme continues
+43                 to determine the Window background behind the Flutter UI.
+44            -->
+45            <meta-data
+45-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:22:13-25:17
+46                android:name="io.flutter.embedding.android.NormalTheme"
+46-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:23:15-70
+47                android:resource="@style/NormalTheme" />
+47-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:24:15-52
+48
+49            <intent-filter>
+49-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:26:13-29:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:27:17-68
+50-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:27:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:28:17-76
+52-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:28:27-74
+53            </intent-filter>
+54        </activity>
+55        <!--
+56             Don't delete the meta-data below.
+57             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+58        -->
+59        <meta-data
+59-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:33:9-35:33
+60            android:name="flutterEmbedding"
+60-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:34:13-44
+61            android:value="2" />
+61-->C:\Users\sharo\OneDrive\Desktop\New folder\my_project\android\app\src\main\AndroidManifest.xml:35:13-30
+62        <!--
+63           Declares a provider which allows us to store files to share in
+64           '.../caches/share_plus' and grant the receiving action access
+65        -->
+66        <provider
+66-->[:share_plus] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-23:20
+67            android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
+67-->[:share_plus] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-77
+68            android:authorities="apps.brototype.melism_musics.flutter.share_provider"
+68-->[:share_plus] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-74
+69            android:exported="false"
+69-->[:share_plus] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
+70            android:grantUriPermissions="true" >
+70-->[:share_plus] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-47
+71            <meta-data
+71-->[:share_plus] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:68
+72                android:name="android.support.FILE_PROVIDER_PATHS"
+72-->[:share_plus] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-67
+73                android:resource="@xml/flutter_share_file_paths" />
+73-->[:share_plus] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:22:17-65
+74        </provider>
+75        <!--
+76           This manifest declared broadcast receiver allows us to use an explicit
+77           Intent when creating a PendingItent to be informed of the user's choice
+78        -->
+79        <receiver
+79-->[:share_plus] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-34:20
+80            android:name="dev.fluttercommunity.plus.share.SharePlusPendingIntent"
+80-->[:share_plus] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-82
+81            android:exported="false" >
+81-->[:share_plus] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-37
+82            <intent-filter>
+82-->[:share_plus] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-33:29
+83                <action android:name="EXTRA_CHOSEN_COMPONENT" />
+83-->[:share_plus] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:32:17-65
+83-->[:share_plus] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:32:25-62
+84            </intent-filter>
+85        </receiver>
+86        <receiver
+86-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-16:39
+87            android:name="com.github.florent37.assets_audio_player.notification.NotificationActionReceiver"
+87-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-108
+88            android:exported="true" />
+88-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-36
+89        <receiver
+89-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-23:20
+90            android:name="com.github.florent37.assets_audio_player.notification.CustomMediaButtonReceiver"
+90-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-107
+91            android:exported="true" >
+91-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-36
+92            <intent-filter>
+92-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:29
+93                <action android:name="android.intent.action.MEDIA_BUTTON" />
+93-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-77
+93-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:21:25-74
+94            </intent-filter>
+95        </receiver>
+96
+97        <service
+97-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-35:19
+98            android:name="com.github.florent37.assets_audio_player.notification.NotificationService"
+98-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-101
+99            android:enabled="true"
+99-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-35
+100            android:exported="true" >
+100-->[:assets_audio_player] C:\Users\sharo\OneDrive\Desktop\New folder\my_project\build\assets_audio_player\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-36
+101
+102            <!--
+103            <intent-filter>
+104                <action android:name="android.intent.action.MEDIA_BUTTON" />
+105            </intent-filter>
+106            -->
+107        </service>
+108
+109        <uses-library
+109-->[androidx.window:window:1.0.0-beta04] C:\Users\sharo\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+110            android:name="androidx.window.extensions"
+110-->[androidx.window:window:1.0.0-beta04] C:\Users\sharo\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+111            android:required="false" />
+111-->[androidx.window:window:1.0.0-beta04] C:\Users\sharo\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+112        <uses-library
+112-->[androidx.window:window:1.0.0-beta04] C:\Users\sharo\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+113            android:name="androidx.window.sidecar"
+113-->[androidx.window:window:1.0.0-beta04] C:\Users\sharo\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+114            android:required="false" />
+114-->[androidx.window:window:1.0.0-beta04] C:\Users\sharo\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+115
+116        <provider
+116-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sharo\.gradle\caches\transforms-3\9fc546b4b41c30406c1c6f8de93a0c6d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+117            android:name="androidx.startup.InitializationProvider"
+117-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sharo\.gradle\caches\transforms-3\9fc546b4b41c30406c1c6f8de93a0c6d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+118            android:authorities="apps.brototype.melism_musics.androidx-startup"
+118-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sharo\.gradle\caches\transforms-3\9fc546b4b41c30406c1c6f8de93a0c6d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+119            android:exported="false" >
+119-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sharo\.gradle\caches\transforms-3\9fc546b4b41c30406c1c6f8de93a0c6d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+120            <meta-data
+120-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sharo\.gradle\caches\transforms-3\9fc546b4b41c30406c1c6f8de93a0c6d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+121                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+121-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sharo\.gradle\caches\transforms-3\9fc546b4b41c30406c1c6f8de93a0c6d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+122                android:value="androidx.startup" />
+122-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sharo\.gradle\caches\transforms-3\9fc546b4b41c30406c1c6f8de93a0c6d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+123            <meta-data
+123-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sharo\.gradle\caches\transforms-3\c7dc2d946f639e7b414f5fbe78913a76\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+124                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+124-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sharo\.gradle\caches\transforms-3\c7dc2d946f639e7b414f5fbe78913a76\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+125                android:value="androidx.startup" />
+125-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sharo\.gradle\caches\transforms-3\c7dc2d946f639e7b414f5fbe78913a76\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+126        </provider>
+127    </application>
+128
+129</manifest>

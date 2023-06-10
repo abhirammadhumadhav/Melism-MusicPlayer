@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable\\exo_rounded_rectangle.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable\\exo_rounded_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\5e083c06c9925c2309f02468fc66e376\\transformed\\core-1.7.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\5e083c06c9925c2309f02468fc66e376\\transformed\\core-1.7.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\5e083c06c9925c2309f02468fc66e376\\transformed\\core-1.7.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\5e083c06c9925c2309f02468fc66e376\\transformed\\core-1.7.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

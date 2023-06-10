@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_audiotrack.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_audiotrack.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_icon_repeat_all.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_icon_repeat_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_chevron_left.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_chevron_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_speed.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_speed.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_icon_shuffle_on.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_icon_shuffle_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_icon_repeat_off.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_icon_repeat_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_check.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_icon_repeat_one.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_icon_repeat_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_icon_fullscreen_enter.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_icon_fullscreen_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_icon_pause.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_icon_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_subtitle_off.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_subtitle_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_edit_mode_logo.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_edit_mode_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_icon_rewind.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_icon_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_rewind.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_chevron_right.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_chevron_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_skip_next.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_icon_shuffle_off.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_icon_shuffle_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_icon_stop.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_icon_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_icon_fullscreen_exit.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_icon_fullscreen_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_play_circle_filled.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_play_circle_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_fullscreen_exit.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_fullscreen_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_settings.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_icon_play.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_icon_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_fullscreen_enter.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_fullscreen_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_icon_fastforward.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_icon_fastforward.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_icon_previous.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_icon_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_icon_next.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_icon_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_forward.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_skip_previous.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_skip_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_subtitle_on.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_subtitle_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_default_album_image.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_default_album_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\drawable-anydpi-v21\\exo_ic_pause_circle_filled.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\drawable-anydpi-v21\\exo_ic_pause_circle_filled.xml"
+    }
+]

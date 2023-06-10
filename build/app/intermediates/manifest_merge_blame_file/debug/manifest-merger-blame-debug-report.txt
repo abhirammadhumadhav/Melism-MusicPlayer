@@ -1,0 +1,198 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="apps.brototype.melism_musics"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="33" />
+10    <!--
+11         The INTERNET permission is required for development. Specifically,
+12         the Flutter tool needs it to communicate with the running application
+13         to allow setting breakpoints, to provide hot reload, etc.
+14    -->
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\Users\GUEST_\Desktop\my_music_player\my_project\android\app\src\debug\AndroidManifest.xml:7:5-66
+15-->C:\Users\GUEST_\Desktop\my_music_player\my_project\android\app\src\debug\AndroidManifest.xml:7:22-64
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->C:\Users\GUEST_\Desktop\my_music_player\my_project\android\app\src\main\AndroidManifest.xml:4:5-79
+16-->C:\Users\GUEST_\Desktop\my_music_player\my_project\android\app\src\main\AndroidManifest.xml:4:22-77
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->C:\Users\GUEST_\Desktop\my_music_player\my_project\android\app\src\main\AndroidManifest.xml:5:6-81
+17-->C:\Users\GUEST_\Desktop\my_music_player\my_project\android\app\src\main\AndroidManifest.xml:5:23-79
+18    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+18-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-77
+18-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-74
+19    <uses-permission android:name="android.permission.VIBRATE" />
+19-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-66
+19-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-63
+20    <uses-permission android:name="android.permission.WAKE_LOCK" />
+20-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-68
+20-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-65
+21    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+22-->[com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\GUEST_\.gradle\caches\transforms-3\6ec2c823b2ddfa9d4aff16fd99b56b89\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:5-79
+22-->[com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\GUEST_\.gradle\caches\transforms-3\6ec2c823b2ddfa9d4aff16fd99b56b89\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:22-76
+23
+24    <permission
+24-->[androidx.core:core:1.9.0] C:\Users\GUEST_\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+25        android:name="apps.brototype.melism_musics.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+25-->[androidx.core:core:1.9.0] C:\Users\GUEST_\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+26        android:protectionLevel="signature" />
+26-->[androidx.core:core:1.9.0] C:\Users\GUEST_\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+27
+28    <uses-permission android:name="apps.brototype.melism_musics.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+28-->[androidx.core:core:1.9.0] C:\Users\GUEST_\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+28-->[androidx.core:core:1.9.0] C:\Users\GUEST_\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+29
+30    <application
+31        android:name="android.app.Application"
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.9.0] C:\Users\GUEST_\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+33        android:debuggable="true"
+34        android:icon="@mipmap/ic_launcher"
+35        android:label="Melism" >
+36        <activity
+37            android:name="com.example.my_project.MainActivity"
+38            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+39            android:exported="true"
+40            android:hardwareAccelerated="true"
+41            android:launchMode="singleTop"
+42            android:theme="@style/LaunchTheme"
+43            android:windowSoftInputMode="adjustResize" >
+44
+45            <!--
+46                 Specifies an Android theme to apply to this Activity as soon as
+47                 the Android process has started. This theme is visible to the user
+48                 while the Flutter UI initializes. After that, this theme continues
+49                 to determine the Window background behind the Flutter UI.
+50            -->
+51            <meta-data
+52                android:name="io.flutter.embedding.android.NormalTheme"
+53                android:resource="@style/NormalTheme" />
+54
+55            <intent-filter>
+56                <action android:name="android.intent.action.MAIN" />
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+59            </intent-filter>
+60        </activity>
+61        <!--
+62             Don't delete the meta-data below.
+63             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+64        -->
+65        <meta-data
+66            android:name="flutterEmbedding"
+67            android:value="2" />
+68        <!--
+69           Declares a provider which allows us to store files to share in
+70           '.../caches/share_plus' and grant the receiving action access
+71        -->
+72        <provider
+72-->[:share_plus] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-23:20
+73            android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
+73-->[:share_plus] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-77
+74            android:authorities="apps.brototype.melism_musics.flutter.share_provider"
+74-->[:share_plus] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-74
+75            android:exported="false"
+75-->[:share_plus] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
+76            android:grantUriPermissions="true" >
+76-->[:share_plus] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-47
+77            <meta-data
+77-->[:share_plus] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:68
+78                android:name="android.support.FILE_PROVIDER_PATHS"
+78-->[:share_plus] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-67
+79                android:resource="@xml/flutter_share_file_paths" />
+79-->[:share_plus] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-65
+80        </provider>
+81        <!--
+82           This manifest declared broadcast receiver allows us to use an explicit
+83           Intent when creating a PendingItent to be informed of the user's choice
+84        -->
+85        <receiver
+85-->[:share_plus] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-34:20
+86            android:name="dev.fluttercommunity.plus.share.SharePlusPendingIntent"
+86-->[:share_plus] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-82
+87            android:exported="false" >
+87-->[:share_plus] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-37
+88            <intent-filter>
+88-->[:share_plus] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-33:29
+89                <action android:name="EXTRA_CHOSEN_COMPONENT" />
+89-->[:share_plus] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:32:17-65
+89-->[:share_plus] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:32:25-62
+90            </intent-filter>
+91        </receiver>
+92        <receiver
+92-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-16:39
+93            android:name="com.github.florent37.assets_audio_player.notification.NotificationActionReceiver"
+93-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-108
+94            android:exported="true" />
+94-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-36
+95        <receiver
+95-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-23:20
+96            android:name="com.github.florent37.assets_audio_player.notification.CustomMediaButtonReceiver"
+96-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-107
+97            android:exported="true" >
+97-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-36
+98            <intent-filter>
+98-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:29
+99                <action android:name="android.intent.action.MEDIA_BUTTON" />
+99-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-77
+99-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:21:25-74
+100            </intent-filter>
+101        </receiver>
+102
+103        <service
+103-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-35:19
+104            android:name="com.github.florent37.assets_audio_player.notification.NotificationService"
+104-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-101
+105            android:enabled="true"
+105-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-35
+106            android:exported="true" >
+106-->[:assets_audio_player] C:\Users\GUEST_\Desktop\my_music_player\my_project\build\assets_audio_player\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-36
+107
+108            <!--
+109            <intent-filter>
+110                <action android:name="android.intent.action.MEDIA_BUTTON" />
+111            </intent-filter>
+112            -->
+113        </service>
+114
+115        <uses-library
+115-->[androidx.window:window:1.0.0-beta04] C:\Users\GUEST_\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+116            android:name="androidx.window.extensions"
+116-->[androidx.window:window:1.0.0-beta04] C:\Users\GUEST_\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+117            android:required="false" />
+117-->[androidx.window:window:1.0.0-beta04] C:\Users\GUEST_\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+118        <uses-library
+118-->[androidx.window:window:1.0.0-beta04] C:\Users\GUEST_\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+119            android:name="androidx.window.sidecar"
+119-->[androidx.window:window:1.0.0-beta04] C:\Users\GUEST_\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+120            android:required="false" />
+120-->[androidx.window:window:1.0.0-beta04] C:\Users\GUEST_\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+121
+122        <provider
+122-->[androidx.emoji2:emoji2:1.2.0] C:\Users\GUEST_\.gradle\caches\transforms-3\9fc546b4b41c30406c1c6f8de93a0c6d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+123            android:name="androidx.startup.InitializationProvider"
+123-->[androidx.emoji2:emoji2:1.2.0] C:\Users\GUEST_\.gradle\caches\transforms-3\9fc546b4b41c30406c1c6f8de93a0c6d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+124            android:authorities="apps.brototype.melism_musics.androidx-startup"
+124-->[androidx.emoji2:emoji2:1.2.0] C:\Users\GUEST_\.gradle\caches\transforms-3\9fc546b4b41c30406c1c6f8de93a0c6d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+125            android:exported="false" >
+125-->[androidx.emoji2:emoji2:1.2.0] C:\Users\GUEST_\.gradle\caches\transforms-3\9fc546b4b41c30406c1c6f8de93a0c6d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+126            <meta-data
+126-->[androidx.emoji2:emoji2:1.2.0] C:\Users\GUEST_\.gradle\caches\transforms-3\9fc546b4b41c30406c1c6f8de93a0c6d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+127                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+127-->[androidx.emoji2:emoji2:1.2.0] C:\Users\GUEST_\.gradle\caches\transforms-3\9fc546b4b41c30406c1c6f8de93a0c6d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+128                android:value="androidx.startup" />
+128-->[androidx.emoji2:emoji2:1.2.0] C:\Users\GUEST_\.gradle\caches\transforms-3\9fc546b4b41c30406c1c6f8de93a0c6d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+129            <meta-data
+129-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GUEST_\.gradle\caches\transforms-3\c7dc2d946f639e7b414f5fbe78913a76\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+130                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+130-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GUEST_\.gradle\caches\transforms-3\c7dc2d946f639e7b414f5fbe78913a76\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+131                android:value="androidx.startup" />
+131-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GUEST_\.gradle\caches\transforms-3\c7dc2d946f639e7b414f5fbe78913a76\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+132        </provider>
+133    </application>
+134
+135</manifest>

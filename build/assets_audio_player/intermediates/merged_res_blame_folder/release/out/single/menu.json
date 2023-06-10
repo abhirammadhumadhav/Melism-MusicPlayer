@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\menu\\example_menu2.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\5e083c06c9925c2309f02468fc66e376\\transformed\\core-1.7.0\\res\\menu\\example_menu2.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\menu\\example_menu.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\5e083c06c9925c2309f02468fc66e376\\transformed\\core-1.7.0\\res\\menu\\example_menu.xml"
+    }
+]

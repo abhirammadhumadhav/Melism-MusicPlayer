@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\exo_styled_settings_list_item.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\layout\\exo_styled_settings_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\5e083c06c9925c2309f02468fc66e376\\transformed\\core-1.7.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\52c9781f926af24ac4530a9702e17d3a\\transformed\\media-1.6.0\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\5e083c06c9925c2309f02468fc66e376\\transformed\\core-1.7.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\exo_styled_settings_list.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\layout\\exo_styled_settings_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\5e083c06c9925c2309f02468fc66e376\\transformed\\core-1.7.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\52c9781f926af24ac4530a9702e17d3a\\transformed\\media-1.6.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\52c9781f926af24ac4530a9702e17d3a\\transformed\\media-1.6.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\52c9781f926af24ac4530a9702e17d3a\\transformed\\media-1.6.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\52c9781f926af24ac4530a9702e17d3a\\transformed\\media-1.6.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\exo_styled_player_control_rewind_button.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\layout\\exo_styled_player_control_rewind_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\5e083c06c9925c2309f02468fc66e376\\transformed\\core-1.7.0\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\exo_player_control_view.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\layout\\exo_player_control_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\52c9781f926af24ac4530a9702e17d3a\\transformed\\media-1.6.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\52c9781f926af24ac4530a9702e17d3a\\transformed\\media-1.6.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\5e083c06c9925c2309f02468fc66e376\\transformed\\core-1.7.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\5e083c06c9925c2309f02468fc66e376\\transformed\\core-1.7.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\52c9781f926af24ac4530a9702e17d3a\\transformed\\media-1.6.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\exo_track_selection_dialog.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\layout\\exo_track_selection_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\exo_styled_sub_settings_list_item.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\layout\\exo_styled_sub_settings_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\exo_list_divider.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\layout\\exo_list_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\52c9781f926af24ac4530a9702e17d3a\\transformed\\media-1.6.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\exo_player_view.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\layout\\exo_player_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\5e083c06c9925c2309f02468fc66e376\\transformed\\core-1.7.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\exo_styled_player_control_view.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\layout\\exo_styled_player_control_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\exo_styled_player_view.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\layout\\exo_styled_player_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout\\exo_styled_player_control_ffwd_button.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\layout\\exo_styled_player_control_ffwd_button.xml"
+    }
+]

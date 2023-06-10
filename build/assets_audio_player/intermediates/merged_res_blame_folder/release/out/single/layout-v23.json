@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout-v23\\exo_styled_player_control_ffwd_button.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\layout-v23\\exo_styled_player_control_ffwd_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\sharo\\OneDrive\\Desktop\\New folder\\my_project\\build\\assets_audio_player\\intermediates\\merged_res\\release\\layout-v23\\exo_styled_player_control_rewind_button.xml",
+        "source": "C:\\Users\\sharo\\.gradle\\caches\\transforms-3\\cebcd75e4d54cda86df4c868b9e2649b\\transformed\\jetified-exoplayer-ui-2.18.1\\res\\layout-v23\\exo_styled_player_control_rewind_button.xml"
+    }
+]
